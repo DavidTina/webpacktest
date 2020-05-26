@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Sandwiches.js"],"names":["Sandwiches"],"mappings":"2GAAA,mEAEe,SAASA,IACpB,OAAO","file":"static/js/5.53f4cb52.chunk.js","sourcesContent":["import React from \"react\";\n\nexport default function Sandwiches() {\n    return <h2>Sandwiches</h2>;\n}"],"sourceRoot":""}

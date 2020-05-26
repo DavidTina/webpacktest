@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Bus.js"],"names":["Bus"],"mappings":"2GAAA,mEAEe,SAASA,IACpB,OAAO","file":"static/js/3.9c20cfcf.chunk.js","sourcesContent":["import React from \"react\";\n\nexport default function Bus() {\n    return <h3>Bus</h3>;\n}"],"sourceRoot":""}
